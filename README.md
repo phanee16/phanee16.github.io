@@ -1,3 +1,3 @@
-# Phaneesha.github.io
+# hphanee16.github.io
 Website Portfolio
-https://phanee16.github.io/Phaneesha.github.io/
+https://phanee16.github.io/
