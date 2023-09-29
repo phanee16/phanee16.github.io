@@ -9,3 +9,4 @@ Welcome to my portfolio! Here, you'll find a curated collection of my work and e
 <img width="964" alt="image" src="https://github.com/phanee16/phanee16.github.io/assets/47351536/ed7b3ccc-499f-4a63-835b-23388de519a3">
 
 
+Reach me on Linkedin/email and let me know your insights.
